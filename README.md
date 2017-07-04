@@ -6,11 +6,10 @@ This is website designed for all devices and also for being printing
 ## How to run
 -------
 
-* Download all files [here](https://github.com/Fanfarlo/Neighborhood-Map-Project/archive/master.zip).
+* Download all files [here](https://github.com/Fanfarlo/Responsive-Website/archive/master.zip).
 * Open index.html in your browser.
-* Search for restaurants and bars.
-* Click on our best recommendations.
-* You can also [click here](https://fanfarlo.github.io/Neighborhood-Map-Project/) to access the site without downloading.
+* Try it on mobile and desktop devices.
+* You can also [click here](https://fanfarlo.github.io/Responsive-Website/) to access the site without downloading.
 
 ## Features
 -------
@@ -19,9 +18,11 @@ This is website designed for all devices and also for being printing
 * Responsive SVG Images
 * Designed for being printing
 * Collapsible Mobile Menu
+* WAI-ARIA
+* Media Queries
 
 
-Resources
+## Resources
 -----
 
 * SVGO - SVG Optimiser
